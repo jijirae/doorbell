@@ -1,5 +1,5 @@
 @echo off
-start pythonw.exe app.py
+start pythonw.exe doorbell.py
 echo Doorbell started. 
 pause
 exit
