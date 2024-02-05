@@ -1,7 +1,9 @@
 # 🔔 doorbell-py
-A doorbell that runs on your local network through Flask.
+A doorbell that runs on your local network through Flask. Requires Python.
 
 ## ✅ Requirements
+Python: https://www.python.org/downloads/
+
 pygame: ```pip install pygame```
 
 Flask: ```pip install Flask```
